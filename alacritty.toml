@@ -79,10 +79,10 @@ chars = "\u001Cd"
 key = "Q"
 mods = "Control"
 
-[[keyboard.bindings]]
-chars = "\u001C[/"
-key = "F"
-mods = "Control"
+# [[keyboard.bindings]]
+# chars = "\u001C[/"
+# key = "F"
+# mods = "Control"
 
 [[keyboard.bindings]]
 chars = "\u001C[?"
@@ -129,22 +129,22 @@ mods = "Control"
 [[keyboard.bindings]]
 chars = "\u001Ch"
 key = "Left"
-mods = "Control"
+mods = "Control|Option"
 
 [[keyboard.bindings]]
 chars = "\u001Cj"
 key = "Down"
-mods = "Control"
+mods = "Control|Option"
 
 [[keyboard.bindings]]
 chars = "\u001Ck"
 key = "Up"
-mods = "Control"
+mods = "Control|Option"
 
 [[keyboard.bindings]]
 chars = "\u001Cl"
 key = "Right"
-mods = "Control"
+mods = "Control|Option"
 
 [[keyboard.bindings]]
 chars = "\u001CH"
