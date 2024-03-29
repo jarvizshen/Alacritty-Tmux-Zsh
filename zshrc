@@ -121,7 +121,6 @@ export FZF_DEFAULT_OPTS=" \
 export https_proxy=http://0.0.0.0:7890
 export CARGO_INCREMENTAL=0
 export RUSTC_WRAPPER=/opt/homebrew/bin/sccache
-export JAVA_HOME=/opt/homebrew/Cellar/openjdk@17/17.0.9
 export MODULAR_HOME="/Users/javiz/.modular"
 
 # =============================================================================
